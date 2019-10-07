@@ -17,12 +17,6 @@
 	<columns>
 		<size>1</size>
 	</columns>
-	<rowsItem>
-		<index>0</index>
-		<row>
-			<empty>true</empty>
-		</row>
-	</rowsItem>
 	<drawing>
 		<drawingType>Picture</drawingType>
 		<id>13</id>
@@ -37,7 +31,7 @@
 		<endColumnOffset>48</endColumnOffset>
 		<autoSize>false</autoSize>
 		<pictureSize>RealSize</pictureSize>
-		<zOrder>1</zOrder>
+		<zOrder>0</zOrder>
 		<pictureIndex>1</pictureIndex>
 	</drawing>
 	<drawing>
@@ -54,7 +48,7 @@
 		<endColumnOffset>48</endColumnOffset>
 		<autoSize>false</autoSize>
 		<pictureSize>RealSize</pictureSize>
-		<zOrder>2</zOrder>
+		<zOrder>0</zOrder>
 		<pictureIndex>2</pictureIndex>
 	</drawing>
 	<drawing>
@@ -71,7 +65,7 @@
 		<endColumnOffset>48</endColumnOffset>
 		<autoSize>false</autoSize>
 		<pictureSize>RealSize</pictureSize>
-		<zOrder>3</zOrder>
+		<zOrder>0</zOrder>
 		<pictureIndex>3</pictureIndex>
 	</drawing>
 	<drawing>
@@ -88,7 +82,7 @@
 		<endColumnOffset>48</endColumnOffset>
 		<autoSize>false</autoSize>
 		<pictureSize>RealSize</pictureSize>
-		<zOrder>4</zOrder>
+		<zOrder>0</zOrder>
 		<pictureIndex>4</pictureIndex>
 	</drawing>
 	<drawing>
@@ -105,7 +99,7 @@
 		<endColumnOffset>48</endColumnOffset>
 		<autoSize>false</autoSize>
 		<pictureSize>RealSize</pictureSize>
-		<zOrder>5</zOrder>
+		<zOrder>0</zOrder>
 		<pictureIndex>5</pictureIndex>
 	</drawing>
 	<drawing>
@@ -122,7 +116,7 @@
 		<endColumnOffset>48</endColumnOffset>
 		<autoSize>false</autoSize>
 		<pictureSize>RealSize</pictureSize>
-		<zOrder>6</zOrder>
+		<zOrder>0</zOrder>
 		<pictureIndex>6</pictureIndex>
 	</drawing>
 	<drawing>
@@ -139,7 +133,7 @@
 		<endColumnOffset>48</endColumnOffset>
 		<autoSize>false</autoSize>
 		<pictureSize>RealSize</pictureSize>
-		<zOrder>7</zOrder>
+		<zOrder>0</zOrder>
 		<pictureIndex>7</pictureIndex>
 	</drawing>
 	<drawing>
@@ -156,7 +150,7 @@
 		<endColumnOffset>48</endColumnOffset>
 		<autoSize>false</autoSize>
 		<pictureSize>RealSize</pictureSize>
-		<zOrder>8</zOrder>
+		<zOrder>0</zOrder>
 		<pictureIndex>8</pictureIndex>
 	</drawing>
 	<drawing>
@@ -173,7 +167,7 @@
 		<endColumnOffset>48</endColumnOffset>
 		<autoSize>false</autoSize>
 		<pictureSize>RealSize</pictureSize>
-		<zOrder>9</zOrder>
+		<zOrder>0</zOrder>
 		<pictureIndex>9</pictureIndex>
 	</drawing>
 	<templateMode>true</templateMode>

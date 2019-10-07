@@ -500,13 +500,6 @@
 					</mxl:columnsItem>
 				</mxl:columns>
 				<mxl:rowsItem>
-					<mxl:index>0</mxl:index>
-					<mxl:indexTo>1</mxl:indexTo>
-					<mxl:row>
-						<mxl:empty>true</mxl:empty>
-					</mxl:row>
-				</mxl:rowsItem>
-				<mxl:rowsItem>
 					<mxl:index>2</mxl:index>
 					<mxl:row>
 						<mxl:c>
