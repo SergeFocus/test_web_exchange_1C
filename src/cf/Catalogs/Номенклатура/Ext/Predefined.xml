@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.9">
+	<Item id="8abc3e5c-d7f0-46c1-8469-cfccb6e75e16">
+		<Name>БытоваяТехника</Name>
+		<Code xsi:type="xs:decimal">5</Code>
+		<Description>Бытовая техника</Description>
+		<IsFolder>true</IsFolder>
+		<ChildItems>
+			<Item id="6c1d1b0c-d87d-410e-824d-c05f11fcdf1e">
+				<Name>Телевизор</Name>
+				<Code xsi:type="xs:decimal">6</Code>
+				<Description>Телевизор</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+			<Item id="a76e199f-441e-4595-aab5-bdbea7705f91">
+				<Name>Холодильник</Name>
+				<Code xsi:type="xs:decimal">7</Code>
+				<Description>Холодильник</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+		</ChildItems>
+	</Item>
+	<Item id="122077e3-4442-4d7d-afbd-722cd666a4ad">
+		<Name>МБТ</Name>
+		<Code xsi:type="xs:decimal">2</Code>
+		<Description>МБТ</Description>
+		<IsFolder>true</IsFolder>
+		<ChildItems>
+			<Item id="5832776f-7bc9-4efe-8deb-44b61cc0c5e4">
+				<Name>чайник</Name>
+				<Code xsi:type="xs:decimal">3</Code>
+				<Description>Чайник</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+		</ChildItems>
+	</Item>
+	<Item id="691cdff1-1ed6-4dd5-92b6-fc990c7cb122">
+		<Name>ПродуктыПитания</Name>
+		<Code xsi:type="xs:decimal">1</Code>
+		<Description>Продукты питания</Description>
+		<IsFolder>true</IsFolder>
+		<ChildItems>
+			<Item id="a8b07c0e-b75e-435f-b496-e88803c9b6e1">
+				<Name>КрупаМанная</Name>
+				<Code xsi:type="xs:decimal">4</Code>
+				<Description>Крупа манная</Description>
+				<IsFolder>false</IsFolder>
+			</Item>
+		</ChildItems>
+	</Item>
+</PredefinedData>
